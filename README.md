@@ -1,2 +1,6 @@
 # MAD-020-
-this repository contains all the assignments or data submitted by SP22-BSE-020.
+hello,
+This repository contains all the assignments or data submitted by:
+Name: Abbas Khan
+Registration Number: SP22-BSE-020.
+Subject: Mobile App Development
